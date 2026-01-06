@@ -1,0 +1,5 @@
+#ifndef TIMO_DESIGN_POTMETER_h
+#define TIMO_DESIGN_POTMETER_h
+
+
+#endif
